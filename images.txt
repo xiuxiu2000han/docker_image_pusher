@@ -1,1 +1,1 @@
-fastgpt-jflrryix
+ghcr.io/labring/fastgpt:latest
